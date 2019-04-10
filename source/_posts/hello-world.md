@@ -1,6 +1,8 @@
 ---
-title: Hello World
-lang: en
+title: 'Hello World, eh?'
+date: '2019-04-01T00:00:00+02:00'
+thumbnail: /images/uploads/wolf-mandala.jpg
+rating: '5'
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
